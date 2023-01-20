@@ -88,7 +88,7 @@ Examples :
 */
 
 
-
+#define DS18X20_MAX_SENSORS  11
 
 
 #endif  // _USER_CONFIG_OVERRIDE_H_
